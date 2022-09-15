@@ -6,4 +6,4 @@
 	url = https://github.com/ironsj/Nebula-Elasticsearch.git
 [submodule "Cosmos-Omniview"]
 	path = Cosmos-Omniview
-	url = https://github.com/ironsj/Cosmos-Omniview.
+	url = https://github.com/ironsj/Cosmos-Omniview.git
